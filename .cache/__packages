@@ -1,0 +1,15 @@
+base
+shiny
+rsconnect
+slidify
+slidifyLibraries
+rCharts
+XML
+devtools
+googleVis
+htmltools
+knitr
+yaml
+xtable
+markdown
+rmarkdown
