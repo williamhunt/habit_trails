@@ -2,7 +2,7 @@
 
 project for the Developing Data Products Coursera course
 
-View the <b>Presentation Slide Show<b> for the <b>Habit Trails<b> shiny app using this link:
+View the **Presentation Slide Show** for the **Habit Trails** shiny app using this link:
 
 https://cdn.rawgit.com/williamhunt/habit_trails/master/index.html#1
 
